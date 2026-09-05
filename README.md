@@ -1,5 +1,5 @@
 # Cybersecurity Lab
-Student Name: Arfa
-Student ID: 26k-2005
-Program: BS Cyber Security
-Lab Section: A
+\nStudent Name: Arfa
+\nStudent ID: 26k-2005
+\nProgram: BS Cyber Security
+\nLab Section: A
