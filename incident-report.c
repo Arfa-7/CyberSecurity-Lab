@@ -15,7 +15,7 @@ int main(){
     scanf("%f",&Hrs);
 
     TotalCost=AffectedSystems*RecoveryCost;
-    printf("\n==============================");
+    printf("\n\n\n\n\n==============================");
     printf("\nSecurity Incident Report");
     printf("\n==============================");
     printf("\nIncident ID:%s",IncidentId);
