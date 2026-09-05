@@ -10,7 +10,7 @@ int main() {
     scanf("%f",&FailedAttempts);
     FailedPer=(FailedAttempts/TotalAttempts)*100;
     SuccesfulPer=(SuccesfulAttempts/TotalAttempts)*100;
-    printf("\nSuccesful Login Percentage:%2f",SuccesfulPer);
-    printf("\nFailed Login Percentage:%2f",FailedPer);
+    printf("\nSuccesful Login Percentage:%.2f",SuccesfulPer);
+    printf("\nFailed Login Percentage:%.2f",FailedPer);
     return 0;
 }
